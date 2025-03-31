@@ -1,6 +1,31 @@
-1 | You wake up in a forest clearing. There are two paths. | 2 | 3
-2 | You follow the path to the left and encounter a river. | 4 | 5
-3 | You go right and find an old cabin. | 5 | 6
-4 | You swim across the river and find a treasure chest. | -1 | -1
-5 | You find a hidden passageway that leads to a secret room. | 7 | -1
-6 | The cabin is empty. You find a trapdoor leading downwards. | -1
+1|You enter Elderwood's borders. A howl echoes investigate or seek shelter?|2|3
+2|A massive wolf with glowing red eyes growls but doesn't attack.|4|5
+3|A dark cave shelters you, but something breathes in the shadows.|6|7
+4|You bow. The wolf transforms into a silver-haired woman.|8|9
+5|You ready your weapon. More wolves emerge.|10|11
+6|A scaled fire breathing dragon slithers forward, curious.|12|13
+7|You back away. A troll blocks your escape.|14|15
+8|The Guardian offers a secret path if you retrieve a moon stone.|16|17
+9|She warns of the Shadow People.|18|19
+10|You drop your weapon. The wolves lead you to a hidden clearing.|20|21
+11|You fight. The wolves retreat, but you're wounded.|22|23
+12|The dragon asks for help retrieving its stolen fire gem.|24|25
+13|You offer food. It asks why you've come to Elderwood.|26|27
+14|The troll challenges you to a riddle pass or become dinner.|28|29
+15|You escape, finding an underground river.|30|31
+16|The Whispering Marsh is filled with poisonous fog.|32|33
+17|You decline the quest and face a bridge guardian.|34|35
+18|She gives you an enchanted dagger that reveals corruption.|36|37
+19|To stop the Shadow people, you must reach Elderwoods Heart Tree.|38|39
+20|In a stone circle, runes glow, revealing a hidden doorway.|40|41
+21|Forest Guardians debate if you may continue.|42|43
+22|A Minotaur discover you as you rest.|44|45
+23|You stumble into a poacher’s trap. A spider descends. (Death if caught)|46|-1
+24|The dragon's fire gem was stolen by the Goblin King.|48|49
+25|You refuse to help. It slithers away, leaving a treasure chest. (End: You take the treasure and leave Elderwood.)|-1|-1
+26|The dragon offers a shortcut but asks you to deliver a message.|52|53
+27|A shadow creature seeps through the cave wall and attacks. (Death if defeated.)|54|-1
+28|Riddle: "I have cities without people, forests without trees, and oceans without water."|56|57
+29|You distract the troll and flee, causing a cave collapse. (If trapped, you perish.)|58|-1
+30|The river leads to a cavern of glowing fungi and amphibious creatures.|60|61
+31|Following the river, you emerge at ancient ruins overtaken by nature. (End: You explore the ruins, uncovering lost secrets.)|-1|-1
